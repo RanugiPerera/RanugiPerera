@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RanugiPerera
 - 👀 I’m interested in fullstack developing
 - 🌱 I’m currently following a Computer Science Degree at IIT Sri Lanka
-- 💞️ I’m looking to collaborate on ...
+
   
 
 <!---
